@@ -1,4 +1,4 @@
-# Namste World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Namaste World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm `Manjeyy Gautam`. I'm a web/mobile dev enthusiast! I love __React/Wordpress__, want to explore all opportunity around it! 
 
